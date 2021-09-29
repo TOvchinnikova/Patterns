@@ -1,0 +1,3 @@
+interface Door {
+    fun getDescription()
+}
