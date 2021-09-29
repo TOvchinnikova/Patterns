@@ -1,3 +1,0 @@
-interface Interviewer {
-    fun askQuestions()
-}
